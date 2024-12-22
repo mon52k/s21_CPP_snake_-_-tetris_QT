@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Snake Chan.ttf</file>
+    </qresource>
+</RCC>
